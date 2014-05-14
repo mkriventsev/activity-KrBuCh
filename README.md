@@ -14,9 +14,9 @@ Web-application to search information about nearest children activity`s classes.
 
 
 #Діаграма класів.
------------------------------------------------
+
 ![alt text](https://raw.githubusercontent.com/mkriventsev/activity-KrBuCh/master/Schema.png "Schema")
----------------------------------
+
 #Виконали:
 * Крівенцев Максим КМ-23
 * Бучинський Олександр КМ-22
