@@ -1,6 +1,4 @@
 #Children`s Activity
-----------------------------------------------
-
 Web-application to search information about nearest children activity`s classes.
 
 
